@@ -1,0 +1,21 @@
+body{
+    font-family:'Comic Sans MS', cursive;
+    background-color: #fff8f0;
+    text-align: center;
+    padding: 50px;
+    color: #333;
+}
+
+button{
+    margin: 10px;
+    background-color: #ffd6e8;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #ffc1dc;
+}
